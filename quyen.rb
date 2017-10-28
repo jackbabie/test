@@ -17,3 +17,4 @@ New member commit here
 Sau khi co nguoi khac commit tren master
 
 # Them dong nay
+Add sau khi co thanh vien moi
